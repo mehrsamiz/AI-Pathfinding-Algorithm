@@ -22,7 +22,7 @@ Implementation of BFS, DFS, and A* search algorithms for grid-based pathfinding 
   - Adjustable start/goal positions
   - Configurable movement patterns (4-directional/8-directional)
 
-## 🛠 Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
