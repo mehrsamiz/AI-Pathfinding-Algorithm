@@ -22,9 +22,16 @@ Implementation of BFS, DFS, and A* search algorithms for grid-based pathfinding 
   - Adjustable start/goal positions
   - Configurable movement patterns (4-directional/8-directional)
 
+DFS:
 
 ![RESULT](https://raw.githubusercontent.com/mehrsamiz/AI-Pathfinding-Algorithm/main/docs/DFS.png)
+
+BFS:
+
 ![RESULT](https://raw.githubusercontent.com/mehrsamiz/AI-Pathfinding-Algorithm/main/docs/BFS.png)
+
+A*:
+
 ![RESULT](https://raw.githubusercontent.com/mehrsamiz/AI-Pathfinding-Algorithm/main/docs/Astar.png)
 
 
